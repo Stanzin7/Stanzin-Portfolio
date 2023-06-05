@@ -35,7 +35,7 @@ section{
     padding: 0 80px;
     margin: auto;
 }
-.about, .services, .skills, .teams, .contact, footer{
+.about, .services, .skills, .teams, .contact, .skillsbp, .skills1, .skills2, .skills3, .skills4, .skills5, .skills6, .skills7, .skills8, .skills9, .skills10, .skills11, .skills12, footer{
     font-family: 'Poppins', sans-serif;
 }
 .about .about-content,
@@ -228,7 +228,7 @@ section .title::after{
 }
 .about .about-content .right{
     width: 55%;
-}308
+}
 .about .about-content .right .text{
     font-size: 25px;
     font-weight: 600;
@@ -378,9 +378,776 @@ section .title::after{
     width: 70%;
 }
 
+/* skillsbp section styling */
+.skillsbp .title::after{
+    content: "04/05 - 28/05";
+}
+.skillsbp .skills-content .column{
+    width: calc(50% - 30px);
+}
+.skillsbp .skills-content .left .text{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.skillsbp .skills-content .left p{
+    text-align: justify;
+}
+.skillsbp .skills-content .left a{
+    display: inline-block;
+    background: crimson;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 8px 16px;
+    margin-top: 20px;
+    border-radius: 6px;
+    border: 2px solid crimson;
+    transition: all 0.3s ease;
+}
+.skillsbp .skills-content .left a:hover{
+    color: crimson;
+    background: none;
+}
+.skillsbp .skills-content .right .bars{
+    margin-bottom: 15px;
+}
+.skillsbp .skills-content .right .info{
+    display: flex;
+    margin-bottom: 5px;
+    align-items: center;
+    justify-content: space-between;
+}
+.skillsbp .skills-content .right span{
+    font-weight: 500;
+    font-size: 18px;
+}
+.skillsbp .skills-content .right .line{
+    height: 5px;
+    width: 100%;
+    background: lightgrey;
+    position: relative;
+}
+.skillsbp .skills-content .right .line::before{
+    content: "";
+    position: absolute;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: crimson;
+}
+
+/* skills1 section styling */
+.skills1 .title::after{
+    content: "29/05 - 04/06";
+}
+.skills1 .skills-content .column{
+    width: calc(50% - 30px);
+}
+.skills1 .skills-content .left .text{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.skills1 .skills-content .left p{
+    text-align: justify;
+}
+.skills1 .skills-content .left a{
+    display: inline-block;
+    background: crimson;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 8px 16px;
+    margin-top: 20px;
+    border-radius: 6px;
+    border: 2px solid crimson;
+    transition: all 0.3s ease;
+}
+.skills1 .skills-content .left a:hover{
+    color: crimson;
+    background: none;
+}
+.skills1 .skills-content .right .bars{
+    margin-bottom: 15px;
+}
+.skills1 .skills-content .right .info{
+    display: flex;
+    margin-bottom: 5px;
+    align-items: center;
+    justify-content: space-between;
+}
+.skills1 .skills-content .right span{
+    font-weight: 500;
+    font-size: 18px;
+}
+.skills1 .skills-content .right .line{
+    height: 5px;
+    width: 100%;
+    background: lightgrey;
+    position: relative;
+}
+.skills1 .skills-content .right .line::before{
+    content: "";
+    position: absolute;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: crimson;
+}
+
+/* skills1 section styling */
+.skills2 .title::after{
+    content: "05/06 - 11/06";
+}
+.skills2 .skills-content .column{
+    width: calc(50% - 30px);
+}
+.skills2 .skills-content .left .text{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.skills2 .skills-content .left p{
+    text-align: justify;
+}
+.skills2 .skills-content .left a{
+    display: inline-block;
+    background: crimson;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 8px 16px;
+    margin-top: 20px;
+    border-radius: 6px;
+    border: 2px solid crimson;
+    transition: all 0.3s ease;
+}
+.skills2 .skills-content .left a:hover{
+    color: crimson;
+    background: none;
+}
+.skills2 .skills-content .right .bars{
+    margin-bottom: 15px;
+}
+.skills2 .skills-content .right .info{
+    display: flex;
+    margin-bottom: 5px;
+    align-items: center;
+    justify-content: space-between;
+}
+.skills2 .skills-content .right span{
+    font-weight: 500;
+    font-size: 18px;
+}
+.skills2 .skills-content .right .line{
+    height: 5px;
+    width: 100%;
+    background: lightgrey;
+    position: relative;
+}
+.skills2 .skills-content .right .line::before{
+    content: "";
+    position: absolute;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: crimson;
+}
+
+/* skills3 section styling */
+.skills3 .title::after{
+    content: "12/06 - 18/06";
+}
+.skills3 .skills-content .column{
+    width: calc(50% - 30px);
+}
+.skills3 .skills-content .left .text{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.skills3 .skills-content .left p{
+    text-align: justify;
+}
+.skills3 .skills-content .left a{
+    display: inline-block;
+    background: crimson;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 8px 16px;
+    margin-top: 20px;
+    border-radius: 6px;
+    border: 2px solid crimson;
+    transition: all 0.3s ease;
+}
+.skills3 .skills-content .left a:hover{
+    color: crimson;
+    background: none;
+}
+.skills3 .skills-content .right .bars{
+    margin-bottom: 15px;
+}
+.skills3 .skills-content .right .info{
+    display: flex;
+    margin-bottom: 5px;
+    align-items: center;
+    justify-content: space-between;
+}
+.skills3 .skills-content .right span{
+    font-weight: 500;
+    font-size: 18px;
+}
+.skills3 .skills-content .right .line{
+    height: 5px;
+    width: 100%;
+    background: lightgrey;
+    position: relative;
+}
+.skills3 .skills-content .right .line::before{
+    content: "";
+    position: absolute;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: crimson;
+}
+
+/* skills4 section styling */
+.skills4 .title::after{
+    content: "19/06 - 25/06";
+}
+.skills4 .skills-content .column{
+    width: calc(50% - 30px);
+}
+.skills4 .skills-content .left .text{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.skills4 .skills-content .left p{
+    text-align: justify;
+}
+.skills4 .skills-content .left a{
+    display: inline-block;
+    background: crimson;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 8px 16px;
+    margin-top: 20px;
+    border-radius: 6px;
+    border: 2px solid crimson;
+    transition: all 0.3s ease;
+}
+.skills4 .skills-content .left a:hover{
+    color: crimson;
+    background: none;
+}
+.skills4 .skills-content .right .bars{
+    margin-bottom: 15px;
+}
+.skills4 .skills-content .right .info{
+    display: flex;
+    margin-bottom: 5px;
+    align-items: center;
+    justify-content: space-between;
+}
+.skills4 .skills-content .right span{
+    font-weight: 500;
+    font-size: 18px;
+}
+.skills4 .skills-content .right .line{
+    height: 5px;
+    width: 100%;
+    background: lightgrey;
+    position: relative;
+}
+.skills4 .skills-content .right .line::before{
+    content: "";
+    position: absolute;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: crimson;
+}
+
+/* skills5 section styling */
+.skills5 .title::after{
+    content: "26/06 - 02/07";
+}
+.skills5 .skills-content .column{
+    width: calc(50% - 30px);
+}
+.skills5 .skills-content .left .text{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.skills5 .skills-content .left p{
+    text-align: justify;
+}
+.skills5 .skills-content .left a{
+    display: inline-block;
+    background: crimson;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 8px 16px;
+    margin-top: 20px;
+    border-radius: 6px;
+    border: 2px solid crimson;
+    transition: all 0.3s ease;
+}
+.skills5 .skills-content .left a:hover{
+    color: crimson;
+    background: none;
+}
+.skills5 .skills-content .right .bars{
+    margin-bottom: 15px;
+}
+.skills5 .skills-content .right .info{
+    display: flex;
+    margin-bottom: 5px;
+    align-items: center;
+    justify-content: space-between;
+}
+.skills5 .skills-content .right span{
+    font-weight: 500;
+    font-size: 18px;
+}
+.skills5 .skills-content .right .line{
+    height: 5px;
+    width: 100%;
+    background: lightgrey;
+    position: relative;
+}
+.skills5 .skills-content .right .line::before{
+    content: "";
+    position: absolute;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: crimson;
+}
+
+/* skills6 section styling */
+.skills6 .title::after{
+    content: "03/07 - 09/07";
+}
+.skills6 .skills-content .column{
+    width: calc(50% - 30px);
+}
+.skills6 .skills-content .left .text{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.skills6 .skills-content .left p{
+    text-align: justify;
+}
+.skills6 .skills-content .left a{
+    display: inline-block;
+    background: crimson;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 8px 16px;
+    margin-top: 20px;
+    border-radius: 6px;
+    border: 2px solid crimson;
+    transition: all 0.3s ease;
+}
+.skills6 .skills-content .left a:hover{
+    color: crimson;
+    background: none;
+}
+.skills6 .skills-content .right .bars{
+    margin-bottom: 15px;
+}
+.skills6 .skills-content .right .info{
+    display: flex;
+    margin-bottom: 5px;
+    align-items: center;
+    justify-content: space-between;
+}
+.skills6 .skills-content .right span{
+    font-weight: 500;
+    font-size: 18px;
+}
+.skills6 .skills-content .right .line{
+    height: 5px;
+    width: 100%;
+    background: lightgrey;
+    position: relative;
+}
+.skills6 .skills-content .right .line::before{
+    content: "";
+    position: absolute;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: crimson;
+}
+
+/* skills7 section styling */
+.skills7 .title::after{
+    content: "10/07 - 16/07";
+}
+.skills7 .skills-content .column{
+    width: calc(50% - 30px);
+}
+.skills7 .skills-content .left .text{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.skills7 .skills-content .left p{
+    text-align: justify;
+}
+.skills7 .skills-content .left a{
+    display: inline-block;
+    background: crimson;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 8px 16px;
+    margin-top: 20px;
+    border-radius: 6px;
+    border: 2px solid crimson;
+    transition: all 0.3s ease;
+}
+.skills7 .skills-content .left a:hover{
+    color: crimson;
+    background: none;
+}
+.skills7 .skills-content .right .bars{
+    margin-bottom: 15px;
+}
+.skills7 .skills-content .right .info{
+    display: flex;
+    margin-bottom: 5px;
+    align-items: center;
+    justify-content: space-between;
+}
+.skills7 .skills-content .right span{
+    font-weight: 500;
+    font-size: 18px;
+}
+.skills7 .skills-content .right .line{
+    height: 5px;
+    width: 100%;
+    background: lightgrey;
+    position: relative;
+}
+.skills7 .skills-content .right .line::before{
+    content: "";
+    position: absolute;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: crimson;
+}
+
+/* skills8 section styling */
+.skills8 .title::after{
+    content: "17/07 - 23/07";
+}
+.skills8 .skills-content .column{
+    width: calc(50% - 30px);
+}
+.skills8 .skills-content .left .text{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.skills8 .skills-content .left p{
+    text-align: justify;
+}
+.skills8 .skills-content .left a{
+    display: inline-block;
+    background: crimson;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 8px 16px;
+    margin-top: 20px;
+    border-radius: 6px;
+    border: 2px solid crimson;
+    transition: all 0.3s ease;
+}
+.skills8 .skills-content .left a:hover{
+    color: crimson;
+    background: none;
+}
+.skills8 .skills-content .right .bars{
+    margin-bottom: 15px;
+}
+.skills8 .skills-content .right .info{
+    display: flex;
+    margin-bottom: 5px;
+    align-items: center;
+    justify-content: space-between;
+}
+.skills8 .skills-content .right span{
+    font-weight: 500;
+    font-size: 18px;
+}
+.skills8 .skills-content .right .line{
+    height: 5px;
+    width: 100%;
+    background: lightgrey;
+    position: relative;
+}
+.skills8 .skills-content .right .line::before{
+    content: "";
+    position: absolute;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: crimson;
+}
+
+/* skills9 section styling */
+.skills9 .title::after{
+    content: "24/07 - 30/07";
+}
+.skills9 .skills-content .column{
+    width: calc(50% - 30px);
+}
+.skills9 .skills-content .left .text{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.skills9 .skills-content .left p{
+    text-align: justify;
+}
+.skills9 .skills-content .left a{
+    display: inline-block;
+    background: crimson;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 8px 16px;
+    margin-top: 20px;
+    border-radius: 6px;
+    border: 2px solid crimson;
+    transition: all 0.3s ease;
+}
+.skills9 .skills-content .left a:hover{
+    color: crimson;
+    background: none;
+}
+.skills9 .skills-content .right .bars{
+    margin-bottom: 15px;
+}
+.skills9 .skills-content .right .info{
+    display: flex;
+    margin-bottom: 5px;
+    align-items: center;
+    justify-content: space-between;
+}
+.skills9 .skills-content .right span{
+    font-weight: 500;
+    font-size: 18px;
+}
+.skills9 .skills-content .right .line{
+    height: 5px;
+    width: 100%;
+    background: lightgrey;
+    position: relative;
+}
+.skills9 .skills-content .right .line::before{
+    content: "";
+    position: absolute;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: crimson;
+}
+
+/* skills10 section styling */
+.skills10 .title::after{
+    content: "31/07 - 06/08";
+}
+.skills10 .skills-content .column{
+    width: calc(50% - 30px);
+}
+.skills10 .skills-content .left .text{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.skills10 .skills-content .left p{
+    text-align: justify;
+}
+.skills10 .skills-content .left a{
+    display: inline-block;
+    background: crimson;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 8px 16px;
+    margin-top: 20px;
+    border-radius: 6px;
+    border: 2px solid crimson;
+    transition: all 0.3s ease;
+}
+.skills10 .skills-content .left a:hover{
+    color: crimson;
+    background: none;
+}
+.skills10 .skills-content .right .bars{
+    margin-bottom: 15px;
+}
+.skills10 .skills-content .right .info{
+    display: flex;
+    margin-bottom: 5px;
+    align-items: center;
+    justify-content: space-between;
+}
+.skills10 .skills-content .right span{
+    font-weight: 500;
+    font-size: 18px;
+}
+.skills10 .skills-content .right .line{
+    height: 5px;
+    width: 100%;
+    background: lightgrey;
+    position: relative;
+}
+.skills10 .skills-content .right .line::before{
+    content: "";
+    position: absolute;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: crimson;
+}
+
+/* skills11 section styling */
+.skills11 .title::after{
+    content: "07/08 - 13/08";
+}
+.skills11 .skills-content .column{
+    width: calc(50% - 30px);
+}
+.skills11 .skills-content .left .text{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.skills11 .skills-content .left p{
+    text-align: justify;
+}
+.skills11 .skills-content .left a{
+    display: inline-block;
+    background: crimson;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 8px 16px;
+    margin-top: 20px;
+    border-radius: 6px;
+    border: 2px solid crimson;
+    transition: all 0.3s ease;
+}
+.skills11 .skills-content .left a:hover{
+    color: crimson;
+    background: none;
+}
+.skills11 .skills-content .right .bars{
+    margin-bottom: 15px;
+}
+.skills11 .skills-content .right .info{
+    display: flex;
+    margin-bottom: 5px;
+    align-items: center;
+    justify-content: space-between;
+}
+.skills11 .skills-content .right span{
+    font-weight: 500;
+    font-size: 18px;
+}
+.skills11 .skills-content .right .line{
+    height: 5px;
+    width: 100%;
+    background: lightgrey;
+    position: relative;
+}
+.skills11 .skills-content .right .line::before{
+    content: "";
+    position: absolute;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: crimson;
+}
+
+/* skills12 section styling */
+.skills12 .title::after{
+    content: "14/08 - 20/08";
+}
+.skills12 .skills-content .column{
+    width: calc(50% - 30px);
+}
+.skills12 .skills-content .left .text{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.skills12 .skills-content .left p{
+    text-align: justify;
+}
+.skills12 .skills-content .left a{
+    display: inline-block;
+    background: crimson;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 8px 16px;
+    margin-top: 20px;
+    border-radius: 6px;
+    border: 2px solid crimson;
+    transition: all 0.3s ease;
+}
+.skills12 .skills-content .left a:hover{
+    color: crimson;
+    background: none;
+}
+.skills12 .skills-content .right .bars{
+    margin-bottom: 15px;
+}
+.skills12 .skills-content .right .info{
+    display: flex;
+    margin-bottom: 5px;
+    align-items: center;
+    justify-content: space-between;
+}
+.skills12 .skills-content .right span{
+    font-weight: 500;
+    font-size: 18px;
+}
+.skills12 .skills-content .right .line{
+    height: 5px;
+    width: 100%;
+    background: lightgrey;
+    position: relative;
+}
+.skills12 .skills-content .right .line::before{
+    content: "";
+    position: absolute;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: crimson;
+}
+
 /* teams section styling */
 .teams .title::after{
-    content: "who with me";
+    content: "what i did";
 }
 .teams .carousel .card{
     background: #222;
