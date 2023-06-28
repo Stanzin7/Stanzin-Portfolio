@@ -7,7 +7,7 @@ Project Overview:
 The primary goal of the CSS modernization initiative is to upgrade Drupal's core CSS codebase using contemporary methodologies. Specifically, my focus lies on the Claro theme, a popular choice among Drupal users. By refactoring and optimizing the CSS code, we aim to improve the frontend design and enhance the overall user experience of Drupal-powered websites.
 
 Refactoring Process:
-The refactoring process involves a comprehensive examination of the existing CSS codebase, identifying areas for improvement and optimization. I will be working closely with the Drupal community and mentor to implement modern CSS techniques that leverage new selectors and properties. This includes utilizing features such as is(), :where(), CSS custom properties, and CSS Grid. By incorporating these advancements, we can streamline the CSS structure, increase maintainability, and achieve greater flexibility in theme customization.
+The refactoring process involves a comprehensive examination of the existing CSS codebase, identifying areas for improvement and optimization. I will be working closely with the Drupal community and mentor to implement modern CSS techniques that leverage new selectors and properties. This includes utilizing features such as is(), : where(), CSS custom properties, and CSS Grid. By incorporating these advancements, we can streamline the CSS structure, increase maintainability, and achieve greater flexibility in theme customization.
 
 Project Milestones:
 Research and Analysis: To begin the project, an in-depth analysis of the current CSS codebase is conducted. This research phase includes studying the Claro theme's structure, understanding its dependencies, and identifying potential areas for optimization.
