@@ -1,4 +1,4 @@
-# Google Summer of Code: Drupal CSS Modernization Initiative
+# Google Summer of Code: Drupal CSS Modernization Initiative.
 
 ## Introduction
 
