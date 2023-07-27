@@ -6,7 +6,7 @@ Throughout the Google Summer of Code program, I am actively engaged in a signifi
 
 ## Project Overview
 
-The primary goal of the CSS modernization initiative is to upgrade Drupal's core CSS codebase using contemporary methodologies. Specifically, my focus lies on the Claro theme, a popular choice among Drupal users. By refactoring and optimizing the CSS code, we aim to improve the frontend design and enhance the overall user experience of Drupal-powered websites.
+The CSS modernization initiative has a clear and vital objective: to elevate Drupal's core CSS codebase by adopting contemporary methodologies. In this endeavor, my primary focus centers on the widely favored Claro theme, known for its popularity among Drupal users. Our overarching goal is to revamp and optimize the CSS code, ultimately leading to a significant improvement in frontend design and a truly enhanced user experience for all Drupal-powered websites.
 
 ## Refactoring Process
 
