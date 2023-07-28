@@ -14,7 +14,7 @@ The refactoring process involves a comprehensive examination of the existing CSS
 
 ## Project Milestones
 
-1. Research and Analysis: To begin the project, an in-depth analysis of the current CSS codebase is conducted. This research phase includes studying the Claro theme's structure, understanding its dependencies, and identifying potential areas for optimization.
+1.Research and Analysis: The project commences with an exhaustive examination of the existing CSS codebase. This phase involves delving into the structure of the Claro theme, comprehending its dependencies, and pinpointing possible areas where optimization can be implemented.
 
 2. Recommendations and Planning: Based on the research findings, a set of recommendations and a detailed project plan are formulated. This stage involves collaborating with the Drupal community, discussing the proposed changes, and gaining valuable insights from experienced developers and designers.
 
