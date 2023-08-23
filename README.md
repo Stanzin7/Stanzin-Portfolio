@@ -1,8 +1,8 @@
-# Google Summer of Code: Drupal CSS Modernization Initiative
+# Journey at Drupal: Drupal CSS Modernization Initiative
 
 ## Introduction
 
-Throughout the Google Summer of Code program, I am actively engaged in a significant project within the Drupal community, focusing on the CSS modernization initiative. My objective for the summer is to contribute to the enhancement of Drupal's core CSS codebase by implementing modern CSS techniques. This documentation aims to provide an overview of the project, highlighting its importance, scope, and expected outcomes.
+Throughout the Journey at Drupal program, I am actively engaged in a significant project within the Drupal community, focusing on the CSS modernization initiative. My objective for the duration is to contribute to the enhancement of Drupal's core CSS codebase by implementing modern CSS techniques. This documentation aims to provide an overview of the project, highlighting its importance, scope, and expected outcomes.
 
 ## Project Overview
 
@@ -28,7 +28,7 @@ Documentation plays a vital role in the success and sustainability of any softwa
 
 ## Expected Outcomes
 
-By the end of the Google Summer of Code program, the CSS modernization initiative aims to achieve the following outcomes:
+By the end of the Journey at Drupal open source initiative, the CSS modernization initiative aims to achieve the following outcomes:
 
 - **Enhanced Frontend Design:** The refactored CSS codebase will lead to improved visual aesthetics, consistency, and responsiveness across Drupal-powered websites.
 
@@ -40,9 +40,11 @@ By the end of the Google Summer of Code program, the CSS modernization initiativ
 
 ## Conclusion
 
-The CSS modernization initiative within Drupal is a critical step forward in improving the frontend development capabilities of this widely used content management system. Through the Google Summer of Code program, I have the opportunity to contribute to this important project and play a role in Drupal's long-term sustainability. With a strong focus on refactoring, optimization, and documentation, I am committed to delivering tangible improvements that will benefit the Drupal community and its users.
+The CSS modernization initiative within Drupal is a critical step forward in improving the frontend development capabilities of this widely used content management system. Through the Journey at Drupal program, I have the opportunity to contribute to this important project and play a role in Drupal's long-term sustainability. With a strong focus on refactoring, optimization, and documentation, I am committed to delivering tangible improvements that will benefit the Drupal community and its users.
 
 By the end of the program, I anticipate a refined and optimized CSS codebase for the Claro theme, setting the stage for a more modern and user-friendly Drupal experience.
 
 Please note that this is an example of documentation content and may not reflect the specific details of your project. Feel free to modify it according to your actual project's objectives and milestones.
+
+
 
