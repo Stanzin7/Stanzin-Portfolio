@@ -1,0 +1,14 @@
+{
+  "name": "myportfolio",
+  "version": "1.0.0",
+  "description": "Throughout the Journey at Drupal program, I am actively engaged in a significant project within the Drupal community, focusing on the CSS modernization initiative. My objective for the duration is to contribute to the enhancement of Drupal's core CSS codebase by implementing modern CSS techniques. This documentation aims to provide an overview of the project, highlighting its importance, scope, and expected outcomes.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

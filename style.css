@@ -439,7 +439,7 @@ section .title::after{
 
 /* skills1 section styling */
 .skills1 .title::after{
-    content: "29/05 - 04/06";
+    content: "29/05 - 11/06";
 }
 .skills1 .skills-content .column{
     width: calc(50% - 30px);
@@ -498,7 +498,7 @@ section .title::after{
 
 /* skills1 section styling */
 .skills2 .title::after{
-    content: "05/06 - 11/06";
+    content: "12/06 - 25/06";
 }
 .skills2 .skills-content .column{
     width: calc(50% - 30px);
@@ -557,7 +557,7 @@ section .title::after{
 
 /* skills3 section styling */
 .skills3 .title::after{
-    content: "12/06 - 18/06";
+    content: "26/06 - 09/07";
 }
 .skills3 .skills-content .column{
     width: calc(50% - 30px);
@@ -616,7 +616,7 @@ section .title::after{
 
 /* skills4 section styling */
 .skills4 .title::after{
-    content: "19/06 - 25/06";
+    content: "10/07 - 23/07";
 }
 .skills4 .skills-content .column{
     width: calc(50% - 30px);
@@ -675,7 +675,7 @@ section .title::after{
 
 /* skills5 section styling */
 .skills5 .title::after{
-    content: "26/06 - 02/07";
+    content: "24/07 - 06/08";
 }
 .skills5 .skills-content .column{
     width: calc(50% - 30px);
@@ -734,7 +734,7 @@ section .title::after{
 
 /* skills6 section styling */
 .skills6 .title::after{
-    content: "03/07 - 09/07";
+    content: "07/08 - 20/08";
 }
 .skills6 .skills-content .column{
     width: calc(50% - 30px);
@@ -852,7 +852,7 @@ section .title::after{
 
 /* skills8 section styling */
 .skills8 .title::after{
-    content: "17/07 - 23/07";
+    content: "The End";
 }
 .skills8 .skills-content .column{
     width: calc(50% - 30px);
@@ -1459,4 +1459,3 @@ footer span a:hover{
   .div2 {
     display: inline-block;
   }
-

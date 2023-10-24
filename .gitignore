@@ -1,0 +1,18 @@
+Copy code
+# Node specific
+node_modules/
+# Optional: Uncomment the line below if you don't want to include the package-lock.json
+# package-lock.json
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE specific files
+*.swp
+*.swo
+*.idea/
+.vscode/
+
+# Log files
+*.log
